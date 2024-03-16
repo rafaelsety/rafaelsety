@@ -1,6 +1,6 @@
 ### Hello! I'm Rafael 👋
 
-An Informatics Engineering Student
+An Information Systems Student
 
 <p align="left">
 <a href="https://github.com/rafaelsety">
