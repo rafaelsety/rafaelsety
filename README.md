@@ -1,4 +1,4 @@
-### Hello! I'm Rafael 👋
+### Hello! 👋
 
 <p align="left">
 <a href="https://github.com/rafaelsety">
