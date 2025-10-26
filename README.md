@@ -1,4 +1,4 @@
-<h3 align="center">Hello👋 I'm Rafael, an Information Systems Student passionate about backend development, DevOps, and full-stack development!</h3>
+<h3 align="center">Hello👋 I'm Rafael, Information Systems Student passionate about backend development, DevOps, and full-stack development!</h3>
 
 ###
 
